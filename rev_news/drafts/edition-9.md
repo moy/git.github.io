@@ -199,9 +199,9 @@ to compensate some weaknesses of Git, but having these features directly
 in Git would be better both for the community and for users IMHO.
 
 Q: If you could remove something from Git without worrying about
-A: backwards compatibility, what would it be?
+backwards compatibility, what would it be?
 
-I'm geek enough to like tools that have too many features ;-). But I'd
+A: I'm geek enough to like tools that have too many features ;-). But I'd
 remove any instance of "cache" or "cached" referring to the Git index in
 the user-interface and documentation. "index" is not such a good term in
 my opinion, but it's already much better than "cache" (which suggests
