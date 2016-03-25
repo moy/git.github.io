@@ -46,20 +46,34 @@ your microproject in your application (e.g. linking to
 participate in the review of other patches, then you may also include
 links to discussions that would support your application.
 
-Students must send drafts of their proposal on
-the mailing-list before submitting it officially to GSoC to get
-feedback from the community. They are strongly encourraged to publish a
-draft on the official GSoC website *and* post it to the mailing list
-for discussion.
+Students must send drafts of their proposal on the mailing-list before
+submitting it officially to GSoC to get feedback from the
+community. They are strongly encourraged to publish a draft on the
+official GSoC website *and* post it to the mailing list for
+discussion.
+
+Git development is based on sending successive versions of patchs or
+patch series to the mailing list until they are considered good and
+correct by the reviewers and Junio Hamano, the maintainer, who will
+merge them. This process usually takes quite some time. By sending
+drafts of your proposal, and patches for your microproject, to the
+mailing list long before the deadline, you can show us that you are
+willing and able to work well using the Git development process.
+
+It is *expected* that what you send will need several rounds of
+reviews and discussions. If you not sure at all about a patch you can
+put "[RFC/PATCH]" at the beginning of its subject. If you are not sure
+about your proposal, you can discuss that in the same email where you
+introduce yourself or in separate emails. Please use "[GSoC]" at the
+beginning of such emails.
 
 In summary, all applicants must (not necessarily in this order):
 
-* Complete a microproject.
+* Complete a microproject. Send the corresponding patch(s) early and
+  often to the mailing list, responding to reviews and comments.
 
-* Write a detailed application explaining their project.
-
-* Discuss their project by posting drafts of their application on the
-  mailing-list long before the deadline.
+* Write a detailed application explaining their project. Send it early
+  and often to the mailing list, responding to reviews and comments.
 
 ## Note about the number of slots
 
